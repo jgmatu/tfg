@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>darknet_ros</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<variableList>
+		<variable>
+			<name>ros</name>
+			<value>file:/opt/ros/kinetic/include</value>
+		</variable>
+	</variableList>
+</projectDescription>
